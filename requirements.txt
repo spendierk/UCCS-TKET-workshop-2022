@@ -1,12 +1,8 @@
 pytket
 pytket-braket
 pytket-cirq
-pytket-projectq
-pytket-pyquil
 pytket-qiskit
 pytket-qsharp
-pytket-qulacs
-pytket-braket
 qermit
 noisyopt
 metakernel
