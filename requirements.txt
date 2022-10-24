@@ -5,8 +5,8 @@ pytket-projectq
 pytket-pyquil
 pytket-qiskit
 pytket-qsharp
-pytket-quantinuum
 pytket-qulacs
+pytket-quantinuum
 qermit
 noisyopt
 metakernel
