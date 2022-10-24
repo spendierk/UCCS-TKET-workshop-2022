@@ -1,0 +1,16 @@
+pytket
+pytket-braket
+pytket-cirq
+pytket-projectq
+pytket-pyquil
+pytket-qiskit
+pytket-qsharp
+pytket-quantinuum
+pytket-qulacs
+qermit
+noisyopt
+metakernel
+portalocker
+matplotlib
+pylatexenc
+ipywidgets
