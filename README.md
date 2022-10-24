@@ -4,15 +4,16 @@ On behalf of [Quantinuum](https://www.quantinuum.com/), welcome to the UCCS TKET
 
 [TKET](https://www.quantinuum.com/developers/tket) is the leading open-source developer toolkit designed to compile and optimize quantum programs. It is platform agnostic allowing it to target the world’s leading quantum hardware and simulators. It also enhances the performance of every Quantinuum product, including cybersecurity key-generation platform Quantum Origin, quantum computational chemistry and materials science package InQuanto, and lambeq, Quantinuum's quantum natural language processing and computational linguistics toolkit. 
 
-This TKET workshop is hosted by [Asst. Prof. Dr. Dmytro Bozhko](https://physics.uccs.edu/dmytro-bozhko) from the Department of Physics, University of Colorado Colorado Springs (UCCS). It constist of three 1 hour 15 minute lectures that are part of the UCCS PHYS 6959 Special Topics in Physics: Quantum Computation & Machine Learning course during the Fall 2022 semester. This workshop will explore tools available in TKET, providing a comprehensive, feature-focused tour of the platform.
+This TKET workshop is hosted by [Asst. Prof. Dr. Dmytro Bozhko](https://physics.uccs.edu/dmytro-bozhko) from the Department of Physics, University of Colorado Colorado Springs (UCCS). It consists of three 1 hour 15 minute lectures in the UCCS PHYS 6959 Special Topics in Physics: Quantum Computation & Machine Learning course during the Fall 2022 semester. This workshop will explore tools available in TKET, providing a comprehensive, feature-focused tour of the platform.
 
 ## Running the contents of these notebooks
-There are a number of ways to execute the notebooks, here are three suggested in
-order of most to least environmental set up done for you.
+There are a number of ways to execute the notebooks, here are two suggested:
 
 1. Use the "launch binder" link below. A jupyter lab instance will open in your browser from which the notebooks can be run.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spendierk/UCCS-TKET-workshop-2022/main)
+
+With Binder, you can reproduce the computations in the notebook by rerunning the notebook. You can also modify the notebook and run it with your changes.
 
 2. Create a python virtual environment in your system and install the
    dependencies yourself, see requirements.txt. WARNING: check that you are on a
