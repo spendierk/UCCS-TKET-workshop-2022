@@ -9,11 +9,7 @@ This TKET workshop is hosted by [Asst. Prof. Dr. Dmytro Bozhko](https://physics.
 ## Running the contents of these notebooks
 There are a number of ways to execute the notebooks, here are two suggested:
 
-1. Use the "launch binder" link below. A jupyter lab instance will open in your browser from which the notebooks can be run.
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spendierk/UCCS-TKET-workshop-2022/main)
-
-With Binder, you can reproduce the computations in the notebook by rerunning the notebook. You can also modify the notebook and run it with your changes.
+1. Use the "launch binder" button here : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spendierk/UCCS-TKET-workshop-2022/main) . A  jupyter lab instance will open in your browser from which the notebooks can be run. With Binder, you can reproduce the computations in the notebook by rerunning the notebook. You can also modify the notebook and run it with your changes.
 
 2. Create a python virtual environment in your system and install the
    dependencies yourself, see requirements.txt. WARNING: check that you are on a
