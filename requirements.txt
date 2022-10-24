@@ -6,6 +6,7 @@ pytket-pyquil
 pytket-qiskit
 pytket-qsharp
 pytket-qulacs
+pytket-braket
 pytket-quantinuum
 qermit
 noisyopt
