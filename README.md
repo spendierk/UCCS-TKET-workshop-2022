@@ -18,11 +18,9 @@ There is currently an implementation of TKET available in the form of the `pytke
 
 `pip install pytket`
 
-Additional extension modules are available for interfacing pytket with several quantum software packages, including: Qiskit, Cirq, PennyLane, pyQuil, and others.
+Additional extension modules are available for interfacing pytket with several quantum software packages, including: Qiskit, Cirq, PennyLane, pyQuil, and others. FOr this workshop, also install the Qiskit extension:
 
 `pip install pytket-qiskit` 
-
-`pip install pytket-pennylane`
 
 Documentation and examples are available → https://github.com/CQCL/pytket-extensions.
 
