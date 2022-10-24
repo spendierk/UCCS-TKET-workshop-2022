@@ -14,6 +14,18 @@ I would recommend using either Python 3.9 or Python 3.10.
 
 To run the Jupyter notebooks, refer to the following: https://jupyter.org/. In case you don't have access to Python or a Jupyter Notebook yet, I suggest you install Anaconda: https://www.anaconda.com/products/distribution
 
+There is currently an implementation of TKET available in the form of the `pytket` python package that is installed by running 
+
+`pip install pytket`
+
+Additional extension modules are available for interfacing pytket with several quantum software packages, including: Qiskit, Cirq, PennyLane, pyQuil, and others.
+
+`pip install pytket-qiskit` 
+
+`pip install pytket-pennylane`
+
+Documentation and examples are available → https://github.com/CQCL/pytket-extensions.
+
 ## Workshop Contents
 
 ### Day 1 (Tues Nov 1, 2022): Quantum circuit construction and running on classical backends 
