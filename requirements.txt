@@ -1,6 +1,2 @@
 pytket
 pytket-qiskit
-matplotlib
-pandas
-numpy 
-qiskit
