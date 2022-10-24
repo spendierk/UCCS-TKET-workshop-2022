@@ -1,6 +1,6 @@
 # UCCS-TKET-workshop-2022
 
-On behalf of [Quantinuum](https://www.quantinuum.com/), welcome to the Q-SITE 2022 conference! 
+On behalf of [Quantinuum](https://www.quantinuum.com/), welcome to the UCCS TKET Workshop! 
 
 [TKET](https://www.quantinuum.com/developers/tket) is the leading open-source developer toolkit designed to compile and optimize quantum programs. It is platform agnostic allowing it to target the world’s leading quantum hardware and simulators. It also enhances the performance of every Quantinuum product, including cybersecurity key-generation platform Quantum Origin, quantum computational chemistry and materials science package InQuanto, and lambeq, Quantinuum's quantum natural language processing and computational linguistics toolkit. 
 
