@@ -12,7 +12,7 @@ First, make sure that a recent version of Python is installed on your machine. Y
 
 I would recommend using either Python 3.9 or Python 3.10.
 
-To run the Jupyter notebooks, refer to the following:https://jupyter.org/. In case you don't have access to Python or a Jupyter Notebook yet, I suggest you install Anaconda: https://www.anaconda.com/products/distribution
+To run the Jupyter notebooks, refer to the following: https://jupyter.org/. In case you don't have access to Python or a Jupyter Notebook yet, I suggest you install Anaconda: https://www.anaconda.com/products/distribution
 
 ## Workshop Contents
 
