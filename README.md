@@ -7,14 +7,13 @@ On behalf of [Quantinuum](https://www.quantinuum.com/), welcome to the UCCS TKET
 This TKET workshop is hosted by [Asst. Prof. Dr. Dmytro Bozhko](https://physics.uccs.edu/dmytro-bozhko) from the Department of Physics, University of Colorado Colorado Springs (UCCS). It consists of three 1 hour 15 minute lectures in the UCCS PHYS 6959 Special Topics in Physics: Quantum Computation & Machine Learning course during the Fall 2022 semester. This workshop will explore tools available in TKET, providing a comprehensive, feature-focused tour of the platform.
 
 ## Running the contents of these notebooks
-There are a number of ways to execute the notebooks, here are two suggested:
+First, make sure that a recent version of Python is installed on your machine. You can check this in a terminal:
 
-1. Use the "launch binder" button here : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spendierk/UCCS-TKET-workshop-2022/main) . A  jupyter lab instance will open in your browser from which the notebooks can be run. With Binder, you can reproduce the computations in the notebook by rerunning the notebook. You can also modify the notebook and run it with your changes.
+'''python --version'''
 
-2. Create a python virtual environment in your system and install the
-   dependencies yourself, see requirements.txt. WARNING: check that you are on a
-   suitable operating system, have a compatible python version (3.8, 3.9, 3.10), and any possible
-   binary libraries required installed on your system (e.g. graphviz).
+I would recommend using either Python 3.9 or Python 3.10.
+
+To run the Jupyter notebooks, refer to the following:https://jupyter.org/. In case you don't have access to Python or a Jupyter Notebook yet, I suggest you install Anaconda: https://www.anaconda.com/products/distribution
 
 ## Workshop Contents
 
