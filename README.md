@@ -4,7 +4,7 @@ On behalf of [Quantinuum](https://www.quantinuum.com/), welcome to the UCCS TKET
 
 [TKET](https://www.quantinuum.com/developers/tket) is the leading open-source developer toolkit designed to compile and optimize quantum programs. It is platform agnostic allowing it to target the world’s leading quantum hardware and simulators. It also enhances the performance of every Quantinuum product, including cybersecurity key-generation platform Quantum Origin, quantum computational chemistry and materials science package InQuanto, and lambeq, Quantinuum's quantum natural language processing and computational linguistics toolkit. 
 
-This TKET workshop is hosted by [Asst. Prof. Dr. Dmytro Bozhko](https://physics.uccs.edu/dmytro-bozhko) from the Department of Physics, University of Colorado Colorado Springs (UCCS). It constist of three 1 hour 15 minute lectures that are part of the UCCS PHYS 6959 Special Topics in Physics: Quantum Computation & Machine Learning course during the Fall 2022 semester.
+This TKET workshop is hosted by [Asst. Prof. Dr. Dmytro Bozhko](https://physics.uccs.edu/dmytro-bozhko) from the Department of Physics, University of Colorado Colorado Springs (UCCS). It constist of three 1 hour 15 minute lectures that are part of the UCCS PHYS 6959 Special Topics in Physics: Quantum Computation & Machine Learning course during the Fall 2022 semester. This workshop will explore tools available in TKET, providing a comprehensive, feature-focused tour of the platform.
 
 
 ## Day 1 (Tues Nov 1, 2022): Quantum circuit construction and running on classical backends 
