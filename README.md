@@ -6,6 +6,20 @@ On behalf of [Quantinuum](https://www.quantinuum.com/), welcome to the UCCS TKET
 
 This TKET workshop is hosted by [Asst. Prof. Dr. Dmytro Bozhko](https://physics.uccs.edu/dmytro-bozhko) from the Department of Physics, University of Colorado Colorado Springs (UCCS). It constist of three 1 hour 15 minute lectures that are part of the UCCS PHYS 6959 Special Topics in Physics: Quantum Computation & Machine Learning course during the Fall 2022 semester. This workshop will explore tools available in TKET, providing a comprehensive, feature-focused tour of the platform.
 
+## Python environment
+
+
+## Running the contents of these notebooks
+There are a number of ways to execute the notebooks, here are three suggested in
+order of most to least environmental set up done for you.
+
+1. Use the "launch binder" link below. A jupyter lab instance will open in your browser from which the notebooks can be run.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spendierk/UCCS-TKET-workshop-2022/main)
+
+2. Create a python virtual environment in your system and install the
+   dependencies yourself, see requirements.txt. WARNING: check that you are on a
+   suitable operating system, have a compatible python version (3.8, 3.9, 3.10), and any possible
+   binary libraries required installed on your system (e.g. graphviz).
 
 ## Day 1 (Tues Nov 1, 2022): Quantum circuit construction and running on classical backends 
 
