@@ -1,12 +1,6 @@
 pytket
-pytket-braket
-pytket-cirq
 pytket-qiskit
-pytket-qsharp
-qermit
-noisyopt
-metakernel
-portalocker
 matplotlib
-pylatexenc
-ipywidgets
+pandas
+numpy 
+qiskit
