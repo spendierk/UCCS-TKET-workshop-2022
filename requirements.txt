@@ -14,4 +14,3 @@ portalocker
 matplotlib
 pylatexenc
 ipywidgets
-pytket-quantinuum
