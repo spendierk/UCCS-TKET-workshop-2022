@@ -8,7 +8,7 @@ On behalf of [Quantinuum](https://www.quantinuum.com/), welcome to the UCCS TKET
 ## Running the contents of these notebooks
 First, make sure that a recent version of Python is installed on your machine. You can check this in a terminal:
 
-'''python --version'''
+`python --version`
 
 I would recommend using either Python 3.9 or Python 3.10.
 
