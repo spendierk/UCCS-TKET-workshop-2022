@@ -34,7 +34,10 @@ A quantum circuit forms the unit of computation that we can send off to a quantu
 
  ### Day 2 (Th Nov 3, 2022): The Quantum compiler flow  
 
-So far, we have already covered enough to be able to design the circuits we want to run, submit them to a simulator backend, and interpret the results in a meaningful way. This is all you need if you want to just try out a quantum computer, run some toy examples and observe some basic results. If you want to run your circuit on a real quantum processor, we need to consider the necessary steps for circuit compilation. The primary goals of compilation are two-fold: solving the constraints of the backend to get from the abstract model to something runnable, and optimizing/simplifying the circuit to make it faster, smaller, and less prone to noise. 
+So far, we have already covered enough to be able to design the circuits we want to run, submit them to a simulator backend, and interpret the results in a meaningful way. This is all you need if you want to just try out a quantum computer, run some toy examples and observe some basic results. If you want to run your circuit on a real quantum processor, we need to consider the necessary steps for circuit compilation. The primary goals of compilation are two-fold: solving the constraints of the backend to get from the abstract model to something runnable, and optimizing/simplifying the circuit to make it faster, smaller, and less prone to noise.
+
+In order to run your circuit on one of IBM's superconducting devices, you will need to setup a free IBM Q account: 
+https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
 
  
 
