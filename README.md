@@ -42,6 +42,11 @@ So far, we have already covered enough to be able to design the circuits we want
 
 In 1994 Peter Shor invented a quantum algorithm that can factor numbers in polynomial time. Why should we care about efficient algorithms for factoring? A very good reason is that such efficient algorithms can be used to break many public key cryptosystems and in particular the public key cryptosystem known as RSA. Hence, Shor’s algorithm remains one of the (or probably the) most important and impressive potential applications of quantum computing. In this lecture, we will discuss Shor’s factoring algorithm and implement it on different backends. While doing this, we will also learn about the quantum Fourier transform, the unitary operator, and quantum phase estimation.
 
+
+### Survey
+Throughout the TKET workshop, you will be able to gain a lot of hands-on experience with TKET. It would be very helpful for us to know what you found particularly difficult. The installation, the interface, the documentation or did you even find a bug? How did you find the covered material (underwhelming, overwhelming, just right), and what suggestions do you have for improvement? Please let us know by filling out this short survey that will take about 5 minutes to complete:
+https://forms.office.com/r/b8N2XK20xf
+
 ## Contact
 
 If any questions arise, don't hesitate to contact me via email
