@@ -1,0 +1,8 @@
+pytket == 1.5.2
+pytket-qiskit == 0.28.0
+noisyopt
+metakernel
+portalocker
+matplotlib
+pylatexenc
+ipywidgets
