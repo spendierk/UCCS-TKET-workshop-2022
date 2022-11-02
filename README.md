@@ -24,6 +24,12 @@ Additional extension modules are available for interfacing pytket with several q
 
 Documentation and examples are available → https://github.com/CQCL/pytket-extensions.
 
+## Useful Links
+
+- [Pytket User manual](https://cqcl.github.io/pytket/manual/index.html)
+- [Pytket API docs](https://cqcl.github.io/tket/pytket/api/)
+- [Pytket Notebook Examples](https://github.com/CQCL/pytket/tree/main/examples)
+
 ## Workshop Contents
 
 ### [Day 1 (Tues Nov 1, 2022): Quantum circuit construction and running on classical backends](https://github.com/spendierk/UCCS-TKET-workshop-2022/tree/main/Day-1)   
