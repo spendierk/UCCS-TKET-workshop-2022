@@ -26,7 +26,7 @@ Documentation and examples are available → https://github.com/CQCL/pytket-exte
 
 ## Workshop Contents
 
-### [Day 1 (Tues Nov 1, 2022): Quantum circuit construction and running on classical backends](https://github.com/spendierk/UCCS-TKET-workshop-2022/tree/main/Day%201)   
+### [Day 1 (Tues Nov 1, 2022): Quantum circuit construction and running on classical backends](https://github.com/spendierk/UCCS-TKET-workshop-2022/tree/main/Day-1)   
 
 A quantum circuit forms the unit of computation that we can send off to a quantum co-processor: there is the main program running on the classical host computer which routinely sends off jobs to a quantum computer. We will use Quantinuum’s quantum software development kit called TKET to discuss basic quantum gates, build quantum circuits and perform measurements. Moreover, when working with quantum circuits we may want access to the quantum state prepared by our circuit. This can be helpful if we want to check whether our circuit construction is correct. We will use different classical simulators such as a statevector simulator and a simulator that mimics a perfect quantum computer. 
 
