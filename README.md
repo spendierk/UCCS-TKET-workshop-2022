@@ -47,7 +47,7 @@ https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
 
  
 
- ### Day 3: (Tues Nov 8, 2022): Shor's Algorithm 
+ ### [Day 3: (Tues Nov 8, 2022): Shor's Algorithm](https://github.com/spendierk/UCCS-TKET-workshop-2022/tree/main/Day-3) 
 
 In 1994 Peter Shor invented a quantum algorithm that can factor numbers in polynomial time. Why should we care about efficient algorithms for factoring? A very good reason is that such efficient algorithms can be used to break many public key cryptosystems and in particular the public key cryptosystem known as RSA. Hence, Shor’s algorithm remains one of the (or probably the) most important and impressive potential applications of quantum computing. In this lecture, we will discuss Shor’s factoring algorithm and implement it on different backends. While doing this, we will also learn about the quantum Fourier transform, the unitary operator, and quantum phase estimation.
 
